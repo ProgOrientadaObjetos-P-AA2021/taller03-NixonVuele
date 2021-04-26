@@ -29,7 +29,8 @@ Elaborar una solución que calcule e imprima el costo de un terreno cuadrado o r
 	
 ### Problema 2. 
 
-Elaborar una solución que lea una cantidad de horas e imprima su equivalente en minutos, segundos, días.
+Elaborar una solución que lea una cantidad de horas e
+ imprima su equivalente en minutos, segundos, días.
 
 * Entididades o Clases
 	* EquivalenteHora
@@ -47,11 +48,20 @@ Elaborar una solución que lea una cantidad de horas e imprima su equivalente en
 
 ### Problema 3. 
 
-Se necesita representar una entidad que permite administrar Instituciones Educativas. Cada institución tienen como características: nombre, tipo de institución, número de alumnos, número de docentes, número de sedes.
+Se necesita representar una entidad que permite administrar Instituciones 
+Educativas. Cada institución tienen como características: nombre,
+ tipo de institución, número de alumnos, número de docentes, número de sedes.
 
 ### Problema 4. 
 
-Para un sistema, es necesario abstraer las características de dispositivos electrónicos como los son los Equipo Celulares. Cada Equipo Celular tienen como características: sistema operativo, tamaño de pantalla, costo, dirección mac, información IMEI.
+Para un sistema, es necesario abstraer las características de dispositivos 
+electrónicos como los son los Equipo Celulares. 
+Cada Equipo Celular tienen como características: 
+sistema operativo, 
+tamaño de pantalla, 
+costo, 
+dirección mac,
+información IMEI.
 
 #### Repositorio creado con fines educativos
 
